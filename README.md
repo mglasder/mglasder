@@ -17,8 +17,8 @@ me = DataScientist(
     expertise=[
         "Machine Learning",
         "Deep Learning",
-        "Reinforcement Learning
-        "Data science",
+        "Reinforcement Learning",
+        "Data Science",
         "Software Development (SOLID, TDD, ...)",
     ],
     interests=[
