@@ -33,6 +33,7 @@ me = DataScientist(
         "Catalan",
     ]
 )
+```
 
 - 🔭 I’m currently working on <<Deep Learning for Additive Manufacturing>>
 - 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mglasder/)
