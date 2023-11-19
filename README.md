@@ -8,6 +8,9 @@ class DataScientist(Human):
         self.expertise = expertise
         self.languages = languages
 
+    def working_on() -> str:
+        return "Deep Learning for Additive Manufacturing"
+
 
 me = DataScientist(
     name="Magnus",
@@ -35,7 +38,8 @@ me = DataScientist(
 )
 ```
 
-- 🔭 I’m currently working on <<Deep Learning for Additive Manufacturing>>
-- 📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mglasder/)
+### Get in touch:
+
+📫 How to reach me: [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mglasder/)
 
 
