@@ -12,7 +12,7 @@ class DeepLearningEngineer(Human):
         return "Deep Learning for Additive Manufacturing"
 
 
-me = DataScientist(
+me = DeepLearningEngineer(
     name="Magnus",
     expertise=[
         "Machine Learning",
