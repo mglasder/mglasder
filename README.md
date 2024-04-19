@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 ```python
-class DataScientist(Human):
+class DeepLearningEngineer(Human):
     def __init__(self, name, interests, expertise, languages):
-        super(DataScientist, self).__init__(name, interests)
+        super(DeepLearningEngineer, self).__init__(name, interests)
         assert isinstance(languages, list) and len(languages) > 0
         self.expertise = expertise
         self.languages = languages
